@@ -10,6 +10,8 @@
 ## About Laravel
 
 - Using PHP 8.1
+- Untuk running program, bisa import Postman Collection yang udah saya masukan di folder awal dengan nama : Clozette API.postman_collection.json
+- Database juga sudah di export dengan nama : db_clozette_api, tapi jika ingin bikin sendiri tidak masalah karena ada migrations dan seeds nya
 
 ## Steps For Installing
 
